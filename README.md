@@ -3,12 +3,22 @@ A collection of unlisted Armory3D YouTube videos
 
 # Sorted Chronologically
 
-* `Viewport camera modes | Docs` : https://www.youtube.com/watch?v=x2Q4rMMIgxk
+* `Viewport camera modes | Docs`
 
-* `Character with Sword` : https://www.youtube.com/watch?v=my7mhhL2umk
+https://www.youtube.com/watch?v=x2Q4rMMIgxk
 
-* `Quick-Start to ArmorPaint` : https://www.youtube.com/watch?v=5YIvj3yIP00
+* `Character with Sword`
 
-* `Setup - Docs` : https://www.youtube.com/watch?v=1Ey1MAIRPm4
+https://www.youtube.com/watch?v=my7mhhL2umk
 
-* `River 2 | Armory` : https://www.youtube.com/watch?v=MJK03dhJMDI
+* `Quick-Start to ArmorPaint`
+
+https://www.youtube.com/watch?v=5YIvj3yIP00
+
+* `Setup - Docs`
+
+https://www.youtube.com/watch?v=1Ey1MAIRPm4
+
+* `River 2 | Armory`
+
+https://www.youtube.com/watch?v=MJK03dhJMDI

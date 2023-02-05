@@ -28,3 +28,6 @@
 
 <p>Reference: <a href="https://twitter.com/luboslenco/status/708692902822731784">https://twitter.com/luboslenco/status/708692902822731784</a></p>
 <p>Link: <a href="https://www.youtube.com/watch?v=mW19nC5wCto">https://www.youtube.com/watch?v=mW19nC5wCto</a></p>
+
+<p>Reference: <a href="https://blenderartists.org/t/addon-lowpoly-factory-procedural-generator/666094">https://blenderartists.org/t/addon-lowpoly-factory-procedural-generator/666094</a></p>
+<p>Link: <a href="https://www.youtube.com/watch?v=bYs70vRcUEA">https://www.youtube.com/watch?v=bYs70vRcUEA</a></p>

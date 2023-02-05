@@ -32,6 +32,9 @@
 <p>Reference: <a href="https://blenderartists.org/t/addon-lowpoly-factory-procedural-generator/666094">https://blenderartists.org/t/addon-lowpoly-factory-procedural-generator/666094</a></p>
 <p>Link: <a href="https://www.youtube.com/watch?v=bYs70vRcUEA">https://www.youtube.com/watch?v=bYs70vRcUEA</a></p>
   
+<p>Reference: <a href="https://blenderartists.org/t/armory-engine-feedback-armory-at-blender-conference/662634/367?u=rpaladin">https://blenderartists.org/t/armory-engine-feedback-armory-at-blender-conference/662634/367?u=rpaladin</a></p>
+<p>Link: <a href="https://www.youtube.com/watch?v=0iouZSS9dD4">https://www.youtube.com/watch?v=0iouZSS9dD4</a></p>
+  
 <p>Reference: <a href="https://blenderartists.org/t/addon-lowpoly-factory-procedural-generator/666094">https://blenderartists.org/t/addon-lowpoly-factory-procedural-generator/666094</a></p>
 <p>Link: <a href="https://www.youtube.com/watch?v=LqjDZ9IpZ3Y">https://www.youtube.com/watch?v=bYs70vRcUEA</a></p>
   

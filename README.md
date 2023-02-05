@@ -34,3 +34,8 @@
   
 <p>Reference: <a href="https://blenderartists.org/t/addon-lowpoly-factory-procedural-generator/666094">https://blenderartists.org/t/addon-lowpoly-factory-procedural-generator/666094</a></p>
 <p>Link: <a href="https://www.youtube.com/watch?v=LqjDZ9IpZ3Y">https://www.youtube.com/watch?v=bYs70vRcUEA</a></p>
+  
+<h1>Deleted</h1>
+
+<p>Reference: <a href="https://blenderartists.org/t/armory-engine-feedback-armory-at-blender-conference/662634/288?">https://blenderartists.org/t/armory-engine-feedback-armory-at-blender-conference/662634/288?</a></p>
+<p>Link: <a href="https://www.youtube.com/watch?v=ZvqCnJ2Sau4">https://www.youtube.com/watch?v=ZvqCnJ2Sau4</a></p>
